@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-cloud-06-eureka-6001/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-cloud-03-provider-product-8002/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-cloud-08-provider-product-hystrix-8001/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-cloud-05-eureka-6002/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-cloud-12-config-client-8081/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-cloud-13-eureka-config-6005/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "service.port",
+      "type": "java.lang.String",
+      "description": "Description for service.port."
+    },
+    {
+      "name": "service.port",
+      "type": "java.lang.String",
+      "description": "Description for service.port."
+    }
+  ] }

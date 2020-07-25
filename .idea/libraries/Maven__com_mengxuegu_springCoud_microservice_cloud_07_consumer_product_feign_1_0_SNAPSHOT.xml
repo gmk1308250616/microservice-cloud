@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Maven: com.mengxuegu.springCoud:microservice-cloud-07-consumer-product-feign:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../Java/Maven/apache-maven-3.3.9/Repository/com/mengxuegu/springCoud/microservice-cloud-07-consumer-product-feign/1.0-SNAPSHOT/microservice-cloud-07-consumer-product-feign-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/microservice-cloud-07-consumer-product-feign/microservice-cloud-07-consumer-product-feign-1.0-SNAPSHOT-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Java/Maven/apache-maven-3.3.9/Repository/com/mengxuegu/springCoud/microservice-cloud-07-consumer-product-feign/1.0-SNAPSHOT/microservice-cloud-07-consumer-product-feign-1.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/microservice-cloud-07-consumer-product-feign/microservice-cloud-07-consumer-product-feign-1.0-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Java/Maven/apache-maven-3.3.9/Repository/com/mengxuegu/springCoud/microservice-cloud-07-consumer-product-feign/1.0-SNAPSHOT/microservice-cloud-07-consumer-product-feign-1.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
